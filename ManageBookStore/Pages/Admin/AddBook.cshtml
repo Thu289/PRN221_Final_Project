@@ -1,0 +1,96 @@
+﻿@page
+@model ManageBookStore.Pages.Admin.AddBookModel
+@{
+}
+<div>
+    @Html.Partial("AdminLayout")
+
+
+    <div>
+        @if (ViewData["error"] != "")
+        {
+            <h3 style="color:red">@ViewData["error"]</h3>
+        }
+        <form method="post">
+            <table>
+                <tr>
+                    <td>Name: </td>
+                    <td><input type="text" name="title" value="@Model.Name"/></td>
+                </tr>
+                <tr>
+                    <td>Code: </td>
+                    <td><input type="text" name="code" value="@Model.Code"/></td>
+                </tr>
+                <tr>
+                    <td>Description</td>
+                    <td><input type="text" name="description" value="@Model.Description"/></td>
+                </tr> <tr>
+                    <td>Quantity</td>
+                    <td><input type="number" name="qty" value="@Model.Qty"/></td>
+                </tr>
+                <tr>
+                    <td>Is in stock</td>
+                    <td>
+                        <select name="isInStock">
+                            <option value="true">In stock</option>
+                            @if(Model.IsInStock == false)
+                            {
+                                <option value="false" selected>Out of stock</option>
+                            }
+                            <option value="false" >Out of stock</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Price</td>
+                    <td><input type="number" name="price" value="@Model.Price"/></td>
+                </tr>
+                <tr>
+                    <td>Image</td>
+                    <td><input type="text" name="img" value="@Model.Image"/></td>
+                </tr>
+                <tr>
+                    <td>Supplier</td>
+                    <td>
+                        <select name="supplier">
+                            @foreach(var a in Model.AccountList)
+                            {
+                                if (Model.Supplier != null && Model.Supplier==a.Id)
+                                {
+                                    <option value="@a.Id">@a.UserName</option>
+                                }
+                                else
+                                {
+                                    <option value="@a.Id">@a.UserName</option>
+                                }
+                            }
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Categories</td>
+                    <td>
+                        @foreach (var c in Model.CategoriesList)
+                        {
+                            <input type="checkbox" value="@c.Id" name="cat" @(Model.Cat.Contains(c.Id)?"checked":"")>@c.Name<br />
+                        }
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="hidden" name="id" value="@Model.Id">
+                    </td>
+                    <td>
+                        @if (Model.BookUpdate.Id != null && Model.BookUpdate.Id != 0)
+                        {
+                            <button type="submit">Update</button>
+                        }else{
+                            <button type="submit">Add</button>
+
+                        }
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </div>
+</div>

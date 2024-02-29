@@ -1,0 +1,51 @@
+﻿@page
+@model ManageBookStore.Pages.Admin.AddSupplierModel
+@{
+}
+
+<div>
+    @Html.Partial("AdminLayout")
+
+    <div>
+        @if (ViewData["error"] != "")
+        {
+            <h3 style="color:red">@ViewData["error"]</h3>
+        }
+        <form method="post">
+            <table>
+                <tr>
+                    <td>UserName: </td>
+                    <td><input type="text" name="UserName" value="@Model.UserName"/></td>
+                </tr>
+                <tr>
+                    <td>FullName: </td>
+                    <td><input type="text" name="FullName" value="@Model.FullName" /></td>
+                </tr>
+                <tr>
+                    <td>Password: </td>
+                    <td><input type="password" name="Password" value="@Model.Password" /></td>
+                </tr>
+                <tr>
+                    <td>Repeat password: </td>
+                    <td><input type="password" name="RePass" value="@Model.RePass" /></td>
+                </tr>
+                <tr>
+                    <td>Email</td>
+                    <td><input type="text" name="Email" value="@Model.Email" /></td>
+                </tr>
+                <tr>
+                    <td>Phone</td>
+                    <td><input type="number" name="Phone" value="@Model.Phone" /></td>
+                </tr>
+                <tr>
+                    <td>Address</td>
+                    <td><input type="text" name="Addresses" value="@Model.Addresses" /></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td><button type="submit">Add</button></td>
+                </tr>
+            </table>
+        </form>
+    </div>
+</div>

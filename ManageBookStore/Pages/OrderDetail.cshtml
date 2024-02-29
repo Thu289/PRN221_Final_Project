@@ -1,0 +1,73 @@
+﻿@page
+@model ManageBookStore.Pages.OrderDetailModel
+@{
+}
+
+<style>
+    .bordered-table {
+        border-collapse: collapse;
+    }
+
+        .bordered-table th,
+        .bordered-table td {
+            border: 1px solid black;
+            padding: 8px;
+        }
+</style>
+<div>
+    <div style="width:20%; float:left; border-right: 1px solid black;">
+        <div>
+            @if (Model.User != null && Model.User.UserName != null)
+            {
+                <h2>@Model.User.UserName</h2>
+                <a href="logout">Logout</a>
+            }
+            else
+            {
+                <a href="login">Login</a>
+                <br />
+                <a href="register">Register</a>
+            }
+            <br />
+            <a href="cart">My Cart</a>
+            <br />
+        </div>
+    </div>
+    <div style="width:60%; float:left;">
+        <div>
+            @if (Model.ListOrderDetails.Count() < 1)
+            {
+                <h1>There isn't any order!</h1>
+            }
+            else
+            {
+                <table class="bordered-table">
+                    <thead>
+                        <tr>
+                            <th>Image</th>
+                            <th>Product Name</th>
+                            <th>Price</th>
+                            <th>Quantity</th>
+                            <th>Total Price</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        @foreach (var item in Model.ListOrderDetails)
+                        {
+                            <tr>
+                                <td><img src="@item.Product.Image" style="max-width: 100px;" /></td>
+                                <td>@item.Product.Name</td>
+                                <td>@item.Product.Price</td>
+                                <td>@item.Quantity</td>
+                                <td>@(item.Product.Price * item.Quantity)</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+                <br />
+                <h5>Total price: <b>@Model.Order.Id</b></h5>
+            }
+        </div>
+    </div>
+</div>

@@ -1,0 +1,60 @@
+﻿@page
+@model ManageBookStore.Pages.Admin.SupplierModel
+@{
+}
+<style>
+    .bordered-table {
+        border-collapse: collapse;
+    }
+
+        .bordered-table th,
+        .bordered-table td {
+            border: 1px solid black;
+            padding: 8px;
+        }
+</style>
+<div>
+    @Html.Partial("AdminLayout")
+
+
+    <div style="width=60%; float:left">
+        <a href="addSupplier">Add new Supplier</a>
+
+        @if (Model.AccountList.Count() < 1)
+        {
+            <h1>There isn't any supplier here!</h1>
+        }
+        else
+        {
+            <table class="bordered-table">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>UserName</th>
+                        <th>FullName</th>
+                        <th>Email</th>
+                        <th>Phone</th>
+                        <th>Status</th>
+                        <th>Detail</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    @foreach (var a in Model.AccountList)
+                    {
+                        <tr>
+                            <td>@a.Id</td>
+                            <td>@a.UserName</td>
+                            <td>@a.FullName</td>
+                            <td>@a.Email</td>
+                            <td>@a.Phone</td>
+                            <td>@((bool)a.IsActive?"Active":"Deactive")</td>
+                            <td><a href="addSupplier?id=@a.Id">View details</a></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+
+    </div>
+</div>

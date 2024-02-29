@@ -1,0 +1,82 @@
+﻿@page
+@model ManageBookStore.Pages.Admin.ViewImportModel
+@{
+}
+<style>
+    .bordered-table {
+        border-collapse: collapse;
+    }
+
+        .bordered-table th,
+        .bordered-table td {
+            border: 1px solid black;
+            padding: 8px;
+        }
+</style>
+<div>
+    @Html.Partial("AdminLayout")
+
+
+    <div style="width=60%; float:left">
+        <table>
+            <tr>
+                <td>Import Id</td>
+                <td>@Model.Import.Id</td>
+            </tr>
+            <tr>
+                <td>Import total price</td>
+                <td>@Model.Import.TotalPrice</td>
+            </tr>
+            <tr>
+                <td>Supplier</td>
+                <td><a href="addSupplier?id=@Model.Import.AccId">@Model.Import.Acc.UserName</a></td>
+            </tr>
+            <tr>
+                <td>Time</td>
+                <td>@Model.Import.CreatedTime</td>
+            </tr>
+        </table>
+        <table class="bordered-table">
+            <thead>
+                <tr>
+                    <th>Product ID</th>
+                    <th>Image</th>
+                    <th>Book Title</th>
+                    <th>Book Description</th>
+                    <th>Price</th>
+                    <th>Quantity</th>
+                    <th>Is in stock</th>
+                    <th>Categories</th>
+                    <th>Rating</th>
+                    <th>Book detail</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var b in Model.Import.OrderDetails)
+                {
+                    <tr>
+                        <td>@b.Product.Id</td>
+                        <td><img src="@b.Product.Image" style="max-width: 100px;"></td>
+                        <td>@b.Product.Name</td>
+                        <td>@b.Product.Description</td>
+                        <td>@b.Price</td>
+                        <td>@b.Quantity</td>
+                        <td>@((bool)b.Product.IsInStock ? "In stock" : "Out of stock")</td>
+                        <td>
+                            @if (b.Product.Categories != null)
+                            {
+                                foreach (var c in b.Product.Categories)
+                                {
+                                    <a href="category?catId=@c.Id">@c.Name,</a>
+                                }
+                            }
+                        </td>
+                        <td>@b.Product.Rating</td>
+                        <td><a href="addBook?id=@b.Product.Id">View details</a></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

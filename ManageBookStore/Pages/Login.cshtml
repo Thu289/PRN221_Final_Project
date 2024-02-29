@@ -1,0 +1,26 @@
+﻿@page
+@model ManageBookStore.Pages.LoginModel
+@{
+}
+<div>
+    @if (ViewData["error"] != "")
+    {
+        <h3 style="color:red">@ViewData["error"]</h3>
+    }
+    <form method="post">
+        <table>
+            <tr>
+                <td>UserName or Email: </td>
+                <td><input type="text" name="UserName" value="@Model.UserName" /></td>
+            </tr>
+            <tr>
+                <td>Password: </td>
+                <td><input type="password" name="Password" value="@Model.Password" /></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><button type="submit">Login</button></td>
+            </tr>
+        </table>
+    </form>
+</div>

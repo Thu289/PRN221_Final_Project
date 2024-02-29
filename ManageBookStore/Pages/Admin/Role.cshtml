@@ -1,0 +1,55 @@
+﻿@page
+@model ManageBookStore.Pages.Admin.RoleModel
+@{
+}
+<style>
+    .bordered-table {
+        border-collapse: collapse;
+    }
+
+        .bordered-table th,
+        .bordered-table td {
+            border: 1px solid black;
+            padding: 8px;
+        }
+</style>
+<div>
+    @Html.Partial("AdminLayout")
+
+
+    <div style="width=60%; float:left">
+        <a href="addRole">Add new role</a>
+
+        @if (Model.Roles.Count() < 1)
+        {
+            <h1>There isn't any role here!</h1>
+        }
+        else
+        {
+            <table class="bordered-table">
+                <thead>
+                    <tr>
+                        <th>Role ID</th>
+                        <th>Role Name</th>
+                        <th>Role Description</th>
+                        <th>Role status</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    @foreach (var r in Model.Roles)
+                    {
+                        <tr>
+                            <td>@r.Id</td>
+                            <td>@r.Name</td>
+                            <td>@r.Description</td>
+                            <td>@((bool)r.Status?"Enable":"Disable")</td>
+                            <td><a href="addRole?id=@r.Id">View details</a></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+
+    </div>
+</div>

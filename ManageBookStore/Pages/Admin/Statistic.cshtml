@@ -1,0 +1,84 @@
+﻿@page
+@model ManageBookStore.Pages.Admin.StatisticModel
+@{
+}
+<style>
+     .bordered-table {
+         border-collapse: collapse;
+     }
+
+         .bordered-table th,
+         .bordered-table td {
+             border: 1px solid black;
+             padding: 8px;
+         }
+</style>
+<div>
+    @Html.Partial("AdminLayout")
+
+    <div>
+        <table>
+            <tr>
+                <td>Total order:</td>
+                <td>@ViewData["totalOrder"]</td>
+            </tr>
+            <tr>
+                <td>Total order price </td>
+                <td>@ViewData["totalPriceOrder"]</td>
+            </tr>
+        </table>
+    </div>
+    <div>
+        <table class="bordered-table">
+            <thead>
+                <tr>
+                    <th>Product ID</th>
+                    <th>Image</th>
+                    <th>Book Title</th>
+                    <th>Book Description</th>
+                    <th>Price</th>
+                    <th>Quantity</th>
+                    <th>Is in stock</th>
+                    <th>Categories</th>
+                    <th>Rating</th>
+                    <th>Supplier</th>
+                    <th>Total sell</th>
+                    <th>Book detail</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var b in Model.Books)
+                {
+                    <tr>
+                        <td>@b.Id</td>
+                        <td><img src="@b.Image" style="max-width: 100px;"></td>
+                        <td>@b.Name</td>
+                        <td>@b.Description</td>
+                        <td>@b.Price</td>
+                        <td>@b.Quantity</td>
+                        <td>@((bool)b.IsInStock ? "In stock" : "Out of stock")</td>
+                        <td>
+                            @if (b.Categories != null)
+                            {
+                                foreach (var c in b.Categories)
+                                {
+                                    <a href="category?catId=@c.Id">@c.Name,</a>
+                                }
+                            }
+                        </td>
+                        <td>@b.Rating</td>
+                        <td>
+                            @if (b.ProductAcc != null)
+                            {
+                                <a href="account?id=@b.ProductAcc.IdNavigation.Id">@b.ProductAcc.IdNavigation.FullName</a>
+                            }
+                        </td>
+                        <td>@ViewData[b.Id.ToString()]</td>
+                        <td><a href="addBook?id=@b.Id">View details</a></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

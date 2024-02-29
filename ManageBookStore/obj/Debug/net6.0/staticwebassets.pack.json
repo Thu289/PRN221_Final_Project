@@ -1,0 +1,2357 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ManageBookStore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ManageBookStore.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\css\\docs.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\docs.css"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\css\\theme.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\theme.min.css"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\css\\vendor.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\vendor.min.css"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\Admin\\assets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\160x160\\img1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\160x160\\img1.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\160x160\\img10.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\160x160\\img10.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\160x160\\img2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\160x160\\img2.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\160x160\\img3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\160x160\\img3.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\160x160\\img4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\160x160\\img4.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\160x160\\img5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\160x160\\img5.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\160x160\\img6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\160x160\\img6.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\160x160\\img7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\160x160\\img7.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\160x160\\img8.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\160x160\\img8.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\160x160\\img9.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\160x160\\img9.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\1920x400\\img1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\1920x400\\img1.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\1920x400\\img2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\1920x400\\img2.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\400x400\\img10.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\400x400\\img10.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\400x400\\img11.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\400x400\\img11.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\400x400\\img12.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\400x400\\img12.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\400x400\\img13.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\400x400\\img13.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\400x400\\img14.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\400x400\\img14.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\400x400\\img15.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\400x400\\img15.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\400x400\\img16.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\400x400\\img16.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\400x400\\img17.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\400x400\\img17.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\400x400\\img18.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\400x400\\img18.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\400x400\\img19.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\400x400\\img19.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\400x400\\img2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\400x400\\img2.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\400x400\\img20.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\400x400\\img20.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\400x400\\img21.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\400x400\\img21.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\400x400\\img22.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\400x400\\img22.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\400x400\\img23.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\400x400\\img23.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\400x400\\img24.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\400x400\\img24.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\400x400\\img25.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\400x400\\img25.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\400x400\\img26.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\400x400\\img26.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\400x400\\img3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\400x400\\img3.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\400x400\\img4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\400x400\\img4.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\400x400\\img5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\400x400\\img5.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\400x400\\img6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\400x400\\img6.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\400x400\\img7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\400x400\\img7.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\400x400\\img8.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\400x400\\img8.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\400x400\\img9.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\400x400\\img9.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\600x200\\img2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\600x200\\img2.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\900x400\\img1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\900x400\\img1.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\documentation\\img1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\documentation\\img1.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\documentation\\img2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\documentation\\img2.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\img\\documentation\\img3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\documentation\\img3.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\js\\demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\demo.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\js\\hs.chartjs-matrix.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\hs.chartjs-matrix.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\js\\theme.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\theme.min.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\js\\vendor.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\vendor.min.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\brands\\atlassian.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\brands\\atlassian.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\brands\\bank-of-america.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\brands\\bank-of-america.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\brands\\bookingcom.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\brands\\bookingcom.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\brands\\capsule.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\brands\\capsule.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\brands\\chrome.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\brands\\chrome.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\brands\\digitalocean.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\brands\\digitalocean.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\brands\\excel.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\brands\\excel.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\brands\\figma.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\brands\\figma.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\brands\\fitbit-gray.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\brands\\fitbit-gray.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\brands\\flow-xo-gray.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\brands\\flow-xo-gray.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\brands\\frontapp.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\brands\\frontapp.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\brands\\gitlab-gray.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\brands\\gitlab-gray.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\brands\\gmail.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\brands\\gmail.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\brands\\google-docs.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\brands\\google-docs.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\brands\\google-sheets.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\brands\\google-sheets.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\brands\\google-slides.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\brands\\google-slides.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\brands\\google-webdev.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\brands\\google-webdev.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\brands\\google.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\brands\\google.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\brands\\guideline.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\brands\\guideline.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\brands\\htmlstream.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\brands\\htmlstream.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\brands\\jira.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\brands\\jira.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\brands\\layar-gray.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\brands\\layar-gray.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\brands\\mailchimp.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\brands\\mailchimp.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\brands\\mastercard.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\brands\\mastercard.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\brands\\paypal-icon.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\brands\\paypal-icon.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\brands\\pdf.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\brands\\pdf.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\brands\\prosperops.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\brands\\prosperops.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\brands\\slack.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\brands\\slack.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\brands\\spec.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\brands\\spec.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\brands\\spotify.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\brands\\spotify.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\brands\\visa.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\brands\\visa.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\brands\\word.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\brands\\word.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\components\\abstract-bg-4.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\components\\abstract-bg-4.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\components\\placeholder-csv-format.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\components\\placeholder-csv-format.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\components\\placeholder-img-format.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\components\\placeholder-img-format.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\components\\placeholder-lg.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\components\\placeholder-lg.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\components\\popover-bottom.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\components\\popover-bottom.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\components\\popover-left.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\components\\popover-left.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\components\\popover-right.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\components\\popover-right.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\components\\popover-top.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\components\\popover-top.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\components\\star-half.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\components\\star-half.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\components\\star-muted.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\components\\star-muted.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\components\\star.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\components\\star.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\illustrations\\at-line.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\illustrations\\at-line.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\illustrations\\book.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\illustrations\\book.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\illustrations\\browse.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\illustrations\\browse.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\illustrations\\card-1.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\illustrations\\card-1.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\illustrations\\card-2.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\illustrations\\card-2.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\illustrations\\card-3.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\illustrations\\card-3.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\illustrations\\card-4.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\illustrations\\card-4.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\illustrations\\card-5.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\illustrations\\card-5.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\illustrations\\chat.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\illustrations\\chat.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\illustrations\\choice.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\illustrations\\choice.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\illustrations\\click.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\illustrations\\click.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\illustrations\\copy.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\illustrations\\copy.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\illustrations\\create.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\illustrations\\create.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\illustrations\\credit-card.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\illustrations\\credit-card.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\illustrations\\graphs.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\illustrations\\graphs.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\illustrations\\hi-five.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\illustrations\\hi-five.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\illustrations\\phone-line.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\illustrations\\phone-line.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\illustrations\\presenting.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\illustrations\\presenting.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\illustrations\\print.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\illustrations\\print.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\illustrations\\review-5-star.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\illustrations\\review-5-star.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\illustrations\\review-rating-shield.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\illustrations\\review-rating-shield.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\illustrations\\sorry.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\illustrations\\sorry.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\illustrations\\think.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\illustrations\\think.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\illustrations\\unlock.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\illustrations\\unlock.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\illustrations\\world-line.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\illustrations\\world-line.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\illustrations\\yelling-reverse.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\illustrations\\yelling-reverse.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\illustrations\\yelling.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\illustrations\\yelling.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\layouts\\content-combinations-container-overlay.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\layouts\\content-combinations-container-overlay.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\layouts\\content-combinations-content-centered.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\layouts\\content-combinations-content-centered.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\layouts\\content-combinations-overlay.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\layouts\\content-combinations-overlay.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\layouts\\demo-layouts-default-classic.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\layouts\\demo-layouts-default-classic.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\layouts\\footer-default-container.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\layouts\\footer-default-container.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\layouts\\footer-default-fluid.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\layouts\\footer-default-fluid.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\layouts\\header-default-container.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\layouts\\header-default-container.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\layouts\\header-default-fluid.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\layouts\\header-default-fluid.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\layouts\\header-double-line-container.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\layouts\\header-double-line-container.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\layouts\\header-double-line-fluid.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\layouts\\header-double-line-fluid.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\layouts\\layouts-sidebar-dark.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\layouts\\layouts-sidebar-dark.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\layouts\\layouts-sidebar-default.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\layouts\\layouts-sidebar-default.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\layouts\\layouts-sidebar-light.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\layouts\\layouts-sidebar-light.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\layouts\\sidebar-combinations-mini-plus-one-cols.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\layouts\\sidebar-combinations-mini-plus-one-cols.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\layouts\\sidebar-combinations-two-cols-between.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\layouts\\sidebar-combinations-two-cols-between.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\layouts\\sidebar-combinations-two-cols.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\layouts\\sidebar-combinations-two-cols.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\layouts\\sidebar-combinations-two-plus-mini-cols.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\layouts\\sidebar-combinations-two-plus-mini-cols.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\layouts\\sidebar-compact.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\layouts\\sidebar-compact.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\layouts\\sidebar-default-classic.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\layouts\\sidebar-default-classic.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\layouts\\sidebar-detached-container.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\layouts\\sidebar-detached-container.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\layouts\\sidebar-detached-fluid.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\layouts\\sidebar-detached-fluid.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\layouts\\sidebar-detached-overlay-container.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\layouts\\sidebar-detached-overlay-container.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\layouts\\sidebar-detached-overlay-fluid.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\layouts\\sidebar-detached-overlay-fluid.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\layouts\\sidebar-mini.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\layouts\\sidebar-mini.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\logos\\logo-short-white.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\logos\\logo-short-white.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\logos\\logo-short.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\logos\\logo-short.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\logos\\logo-white.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\logos\\logo-white.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\svg\\logos\\logo.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\svg\\logos\\logo.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\vendor\\chart.js.extensions\\chartjs-extensions.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\chart.js.extensions\\chartjs-extensions.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\vendor\\chart.js\\dist\\Chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\chart.js\\dist\\Chart.min.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\vendor\\chartjs-chart-matrix\\dist\\chartjs-chart-matrix.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\chartjs-chart-matrix\\dist\\chartjs-chart-matrix.min.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\vendor\\chartjs-plugin-datalabels\\dist\\chartjs-plugin-datalabels.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\chartjs-plugin-datalabels\\dist\\chartjs-plugin-datalabels.min.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\vendor\\flag-icon-css\\flags\\1x1\\ca.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\flag-icon-css\\flags\\1x1\\ca.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\vendor\\flag-icon-css\\flags\\1x1\\cn.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\flag-icon-css\\flags\\1x1\\cn.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\vendor\\flag-icon-css\\flags\\1x1\\de.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\flag-icon-css\\flags\\1x1\\de.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\vendor\\flag-icon-css\\flags\\1x1\\dk.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\flag-icon-css\\flags\\1x1\\dk.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\vendor\\flag-icon-css\\flags\\1x1\\fr.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\flag-icon-css\\flags\\1x1\\fr.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\vendor\\flag-icon-css\\flags\\1x1\\gb.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\flag-icon-css\\flags\\1x1\\gb.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\vendor\\flag-icon-css\\flags\\1x1\\in.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\flag-icon-css\\flags\\1x1\\in.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\vendor\\flag-icon-css\\flags\\1x1\\it.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\flag-icon-css\\flags\\1x1\\it.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\vendor\\flag-icon-css\\flags\\1x1\\us.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\flag-icon-css\\flags\\1x1\\us.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\vendor\\hs-navbar-vertical-aside\\hs-navbar-vertical-aside-mini-cache.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\hs-navbar-vertical-aside\\hs-navbar-vertical-aside-mini-cache.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\vendor\\icon-set\\fonts\\The-Icon-of.bin",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\icon-set\\fonts\\The-Icon-of.bin"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\vendor\\icon-set\\fonts\\The-Icon-of.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\icon-set\\fonts\\The-Icon-of.eot"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\vendor\\icon-set\\fonts\\The-Icon-of.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\icon-set\\fonts\\The-Icon-of.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\vendor\\icon-set\\fonts\\The-Icon-of.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\icon-set\\fonts\\The-Icon-of.woff"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Admin\\assets\\vendor\\icon-set\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\icon-set\\style.css"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\contact.html",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\contact.html"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\css\\custom.css",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\css\\custom.css"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\css\\megamenu.css",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\css\\megamenu.css"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\css\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\css\\nouislider.min.css"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\css\\range-slider.css",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\css\\range-slider.css"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\css\\settings.css",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\css\\settings.css"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\css\\style.css",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\css\\style.css"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\advertisement.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\advertisement.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\author1.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\author1.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\author2.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\author2.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\author3.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\author3.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\author4.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\author4.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\banner.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\banner.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\banner1.1.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\banner1.1.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\banner1.2.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\banner1.2.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\banner1.3.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\banner1.3.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\book-1-1.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\book-1-1.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\book-1-2.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\book-1-2.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\book-1.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\book-1.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\book-2-1.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\book-2-1.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\book-2.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\book-2.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\book-3-1.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\book-3-1.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\book-3.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\book-3.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\book-4-1.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\book-4-1.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\book-4.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\book-4.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\book-5-1.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\book-5-1.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\book-5.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\book-5.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\book-6-1.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\book-6-1.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\book-6.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\book-6.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\books.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\books.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\favicon.ico"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\featured-product.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\featured-product.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\imagesbanner.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\imagesbanner.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\l1.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\l1.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\l10.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\l10.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\l11.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\l11.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\l12.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\l12.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\l13.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\l13.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\l7.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\l7.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\l8.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\l8.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\l9.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\l9.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\logo.png",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\shop1.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\shop1.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\shop2.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\shop2.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\shopcart-1.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\shopcart-1.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\shopcart-2.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\shopcart-2.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\slider-bg-2.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\slider-bg-2.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\user.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\img\\user2.jpg",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\img\\user2.jpg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\js\\map.js",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\js\\map.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\js\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\js\\nouislider.min.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\js\\script.js",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\js\\script.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\product-detail.html",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\product-detail.html"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\product-listing.html",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\product-listing.html"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\book-shop\\shop-cart.html",
+      "PackagePath": "staticwebassets\\Common\\book-shop\\shop-cart.html"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\shop\\css\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\Common\\shop\\css\\nouislider.min.css"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\shop\\css\\range-slider.css",
+      "PackagePath": "staticwebassets\\Common\\shop\\css\\range-slider.css"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\css\\LineIcons.min.css",
+      "PackagePath": "staticwebassets\\Common\\vendor\\css\\LineIcons.min.css"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\css\\bundle.min.css",
+      "PackagePath": "staticwebassets\\Common\\vendor\\css\\bundle.min.css"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\css\\cubeportfolio.min.css",
+      "PackagePath": "staticwebassets\\Common\\vendor\\css\\cubeportfolio.min.css"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\Common\\vendor\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Common\\vendor\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\css\\swiper.min.css",
+      "PackagePath": "staticwebassets\\Common\\vendor\\css\\swiper.min.css"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\css\\wow.css",
+      "PackagePath": "staticwebassets\\Common\\vendor\\css\\wow.css"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\fonts\\LineIcons.bin",
+      "PackagePath": "staticwebassets\\Common\\vendor\\fonts\\LineIcons.bin"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\fonts\\LineIcons.eot",
+      "PackagePath": "staticwebassets\\Common\\vendor\\fonts\\LineIcons.eot"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\fonts\\LineIcons.svg",
+      "PackagePath": "staticwebassets\\Common\\vendor\\fonts\\LineIcons.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\fonts\\LineIcons.woff",
+      "PackagePath": "staticwebassets\\Common\\vendor\\fonts\\LineIcons.woff"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\fonts\\fa-brands-400-1.eot",
+      "PackagePath": "staticwebassets\\Common\\vendor\\fonts\\fa-brands-400-1.eot"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\fonts\\fa-brands-400.bin",
+      "PackagePath": "staticwebassets\\Common\\vendor\\fonts\\fa-brands-400.bin"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\Common\\vendor\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\Common\\vendor\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\Common\\vendor\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\Common\\vendor\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\fonts\\fa-regular-400-1.eot",
+      "PackagePath": "staticwebassets\\Common\\vendor\\fonts\\fa-regular-400-1.eot"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\fonts\\fa-regular-400.bin",
+      "PackagePath": "staticwebassets\\Common\\vendor\\fonts\\fa-regular-400.bin"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\Common\\vendor\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\Common\\vendor\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\Common\\vendor\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\Common\\vendor\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\fonts\\fa-solid-900-1.eot",
+      "PackagePath": "staticwebassets\\Common\\vendor\\fonts\\fa-solid-900-1.eot"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\fonts\\fa-solid-900.bin",
+      "PackagePath": "staticwebassets\\Common\\vendor\\fonts\\fa-solid-900.bin"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\Common\\vendor\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\Common\\vendor\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\Common\\vendor\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\Common\\vendor\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\img\\cbp-sprite.png",
+      "PackagePath": "staticwebassets\\Common\\vendor\\img\\cbp-sprite.png"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\js\\bootstrap-input-spinner.js",
+      "PackagePath": "staticwebassets\\Common\\vendor\\js\\bootstrap-input-spinner.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\js\\bundle.min.js",
+      "PackagePath": "staticwebassets\\Common\\vendor\\js\\bundle.min.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\js\\contact_us.js",
+      "PackagePath": "staticwebassets\\Common\\vendor\\js\\contact_us.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\js\\extensions\\revolution.extension.actions.min.js",
+      "PackagePath": "staticwebassets\\Common\\vendor\\js\\extensions\\revolution.extension.actions.min.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\js\\extensions\\revolution.extension.carousel.min.js",
+      "PackagePath": "staticwebassets\\Common\\vendor\\js\\extensions\\revolution.extension.carousel.min.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\js\\extensions\\revolution.extension.kenburn.min.js",
+      "PackagePath": "staticwebassets\\Common\\vendor\\js\\extensions\\revolution.extension.kenburn.min.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\js\\extensions\\revolution.extension.layeranimation.min.js",
+      "PackagePath": "staticwebassets\\Common\\vendor\\js\\extensions\\revolution.extension.layeranimation.min.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\js\\extensions\\revolution.extension.migration.min.js",
+      "PackagePath": "staticwebassets\\Common\\vendor\\js\\extensions\\revolution.extension.migration.min.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\js\\extensions\\revolution.extension.navigation.min.js",
+      "PackagePath": "staticwebassets\\Common\\vendor\\js\\extensions\\revolution.extension.navigation.min.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\js\\extensions\\revolution.extension.parallax.min.js",
+      "PackagePath": "staticwebassets\\Common\\vendor\\js\\extensions\\revolution.extension.parallax.min.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\js\\extensions\\revolution.extension.slideanims.min.js",
+      "PackagePath": "staticwebassets\\Common\\vendor\\js\\extensions\\revolution.extension.slideanims.min.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\js\\extensions\\revolution.extension.video.min.js",
+      "PackagePath": "staticwebassets\\Common\\vendor\\js\\extensions\\revolution.extension.video.min.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\js\\jquery.cubeportfolio.min.js",
+      "PackagePath": "staticwebassets\\Common\\vendor\\js\\jquery.cubeportfolio.min.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\js\\jquery.fancybox.min.js",
+      "PackagePath": "staticwebassets\\Common\\vendor\\js\\jquery.fancybox.min.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\js\\jquery.themepunch.revolution.min.js",
+      "PackagePath": "staticwebassets\\Common\\vendor\\js\\jquery.themepunch.revolution.min.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\js\\jquery.themepunch.tools.min.js",
+      "PackagePath": "staticwebassets\\Common\\vendor\\js\\jquery.themepunch.tools.min.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Common\\vendor\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\js\\parallaxie.min.js",
+      "PackagePath": "staticwebassets\\Common\\vendor\\js\\parallaxie.min.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\js\\stickyfill.min.js",
+      "PackagePath": "staticwebassets\\Common\\vendor\\js\\stickyfill.min.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\js\\swiper.min.js",
+      "PackagePath": "staticwebassets\\Common\\vendor\\js\\swiper.min.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\Common\\vendor\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\Common\\vendor\\js\\wow.min.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\aspnet-signalr\\signalr.js",
+      "PackagePath": "staticwebassets\\aspnet-signalr\\signalr.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\aspnet-signalr\\signalr.min.js",
+      "PackagePath": "staticwebassets\\aspnet-signalr\\signalr.min.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\js-signals\\js-signals.js",
+      "PackagePath": "staticwebassets\\js-signals\\js-signals.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\js-signals\\js-signals.min.js",
+      "PackagePath": "staticwebassets\\js-signals\\js-signals.min.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\js\\ProductRealTime.js",
+      "PackagePath": "staticwebassets\\js\\ProductRealTime.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft-signalr\\signalr.js",
+      "PackagePath": "staticwebassets\\microsoft-signalr\\signalr.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft-signalr\\signalr.min.js",
+      "PackagePath": "staticwebassets\\microsoft-signalr\\signalr.min.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\README.md",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\README.md"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\browser\\signalr.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\browser\\signalr.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\browser\\signalr.min.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\browser\\signalr.min.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\AbortController.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\AbortController.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\AbortController.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\AbortController.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\AccessTokenHttpClient.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\AccessTokenHttpClient.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\AccessTokenHttpClient.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\AccessTokenHttpClient.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\DefaultHttpClient.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\DefaultHttpClient.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\DefaultHttpClient.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\DefaultHttpClient.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\DefaultReconnectPolicy.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\DefaultReconnectPolicy.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\DefaultReconnectPolicy.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\DefaultReconnectPolicy.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\Errors.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\Errors.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\Errors.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\Errors.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\FetchHttpClient.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\FetchHttpClient.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\FetchHttpClient.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\FetchHttpClient.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\HandshakeProtocol.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\HandshakeProtocol.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\HandshakeProtocol.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\HandshakeProtocol.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\HeaderNames.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\HeaderNames.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\HeaderNames.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\HeaderNames.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\HttpClient.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\HttpClient.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\HttpClient.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\HttpClient.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\HttpConnection.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\HttpConnection.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\HttpConnection.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\HttpConnection.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\HubConnection.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\HubConnection.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\HubConnection.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\HubConnection.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\HubConnectionBuilder.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\HubConnectionBuilder.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\HubConnectionBuilder.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\HubConnectionBuilder.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\IConnection.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\IConnection.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\IConnection.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\IConnection.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\IHttpConnectionOptions.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\IHttpConnectionOptions.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\IHttpConnectionOptions.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\IHttpConnectionOptions.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\IHubProtocol.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\IHubProtocol.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\IHubProtocol.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\IHubProtocol.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\ILogger.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\ILogger.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\ILogger.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\ILogger.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\IRetryPolicy.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\IRetryPolicy.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\IRetryPolicy.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\IRetryPolicy.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\ITransport.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\ITransport.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\ITransport.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\ITransport.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\JsonHubProtocol.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\JsonHubProtocol.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\JsonHubProtocol.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\JsonHubProtocol.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\Loggers.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\Loggers.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\Loggers.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\Loggers.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\LongPollingTransport.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\LongPollingTransport.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\LongPollingTransport.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\LongPollingTransport.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\Polyfills.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\Polyfills.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\Polyfills.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\Polyfills.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\ServerSentEventsTransport.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\ServerSentEventsTransport.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\ServerSentEventsTransport.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\ServerSentEventsTransport.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\Stream.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\Stream.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\Stream.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\Stream.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\Subject.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\Subject.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\Subject.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\Subject.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\TextMessageFormat.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\TextMessageFormat.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\TextMessageFormat.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\TextMessageFormat.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\Utils.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\Utils.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\Utils.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\Utils.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\WebSocketTransport.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\WebSocketTransport.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\WebSocketTransport.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\WebSocketTransport.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\XhrHttpClient.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\XhrHttpClient.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\XhrHttpClient.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\XhrHttpClient.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\browser-index.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\browser-index.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\browser-index.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\browser-index.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\index.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\index.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\cjs\\index.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\cjs\\index.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\AbortController.d.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\AbortController.d.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\AbortController.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\AbortController.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\AbortController.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\AbortController.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\AccessTokenHttpClient.d.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\AccessTokenHttpClient.d.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\AccessTokenHttpClient.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\AccessTokenHttpClient.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\AccessTokenHttpClient.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\AccessTokenHttpClient.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\DefaultHttpClient.d.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\DefaultHttpClient.d.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\DefaultHttpClient.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\DefaultHttpClient.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\DefaultHttpClient.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\DefaultHttpClient.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\DefaultReconnectPolicy.d.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\DefaultReconnectPolicy.d.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\DefaultReconnectPolicy.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\DefaultReconnectPolicy.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\DefaultReconnectPolicy.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\DefaultReconnectPolicy.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\Errors.d.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\Errors.d.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\Errors.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\Errors.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\Errors.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\Errors.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\FetchHttpClient.d.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\FetchHttpClient.d.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\FetchHttpClient.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\FetchHttpClient.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\FetchHttpClient.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\FetchHttpClient.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\HandshakeProtocol.d.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\HandshakeProtocol.d.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\HandshakeProtocol.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\HandshakeProtocol.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\HandshakeProtocol.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\HandshakeProtocol.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\HeaderNames.d.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\HeaderNames.d.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\HeaderNames.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\HeaderNames.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\HeaderNames.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\HeaderNames.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\HttpClient.d.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\HttpClient.d.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\HttpClient.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\HttpClient.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\HttpClient.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\HttpClient.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\HttpConnection.d.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\HttpConnection.d.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\HttpConnection.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\HttpConnection.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\HttpConnection.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\HttpConnection.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\HubConnection.d.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\HubConnection.d.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\HubConnection.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\HubConnection.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\HubConnection.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\HubConnection.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\HubConnectionBuilder.d.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\HubConnectionBuilder.d.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\HubConnectionBuilder.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\HubConnectionBuilder.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\HubConnectionBuilder.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\HubConnectionBuilder.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\IConnection.d.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\IConnection.d.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\IConnection.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\IConnection.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\IConnection.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\IConnection.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\IHttpConnectionOptions.d.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\IHttpConnectionOptions.d.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\IHttpConnectionOptions.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\IHttpConnectionOptions.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\IHttpConnectionOptions.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\IHttpConnectionOptions.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\IHubProtocol.d.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\IHubProtocol.d.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\IHubProtocol.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\IHubProtocol.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\IHubProtocol.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\IHubProtocol.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\ILogger.d.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\ILogger.d.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\ILogger.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\ILogger.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\ILogger.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\ILogger.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\IRetryPolicy.d.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\IRetryPolicy.d.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\IRetryPolicy.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\IRetryPolicy.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\IRetryPolicy.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\IRetryPolicy.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\ITransport.d.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\ITransport.d.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\ITransport.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\ITransport.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\ITransport.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\ITransport.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\JsonHubProtocol.d.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\JsonHubProtocol.d.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\JsonHubProtocol.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\JsonHubProtocol.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\JsonHubProtocol.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\JsonHubProtocol.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\Loggers.d.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\Loggers.d.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\Loggers.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\Loggers.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\Loggers.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\Loggers.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\LongPollingTransport.d.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\LongPollingTransport.d.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\LongPollingTransport.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\LongPollingTransport.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\LongPollingTransport.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\LongPollingTransport.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\Polyfills.d.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\Polyfills.d.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\Polyfills.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\Polyfills.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\Polyfills.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\Polyfills.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\ServerSentEventsTransport.d.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\ServerSentEventsTransport.d.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\ServerSentEventsTransport.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\ServerSentEventsTransport.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\ServerSentEventsTransport.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\ServerSentEventsTransport.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\Stream.d.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\Stream.d.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\Stream.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\Stream.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\Stream.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\Stream.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\Subject.d.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\Subject.d.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\Subject.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\Subject.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\Subject.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\Subject.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\TextMessageFormat.d.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\TextMessageFormat.d.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\TextMessageFormat.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\TextMessageFormat.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\TextMessageFormat.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\TextMessageFormat.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\Utils.d.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\Utils.d.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\Utils.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\Utils.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\Utils.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\Utils.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\WebSocketTransport.d.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\WebSocketTransport.d.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\WebSocketTransport.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\WebSocketTransport.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\WebSocketTransport.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\WebSocketTransport.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\XhrHttpClient.d.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\XhrHttpClient.d.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\XhrHttpClient.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\XhrHttpClient.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\XhrHttpClient.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\XhrHttpClient.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\browser-index.d.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\browser-index.d.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\browser-index.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\browser-index.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\browser-index.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\browser-index.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\index.d.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\index.d.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\index.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\index.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\esm\\index.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\esm\\index.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\webworker\\signalr.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\webworker\\signalr.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\webworker\\signalr.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\webworker\\signalr.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\webworker\\signalr.min.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\webworker\\signalr.min.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\dist\\webworker\\signalr.min.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\webworker\\signalr.min.js.map"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\package.json",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\package.json"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\src\\AbortController.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\src\\AbortController.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\src\\AccessTokenHttpClient.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\src\\AccessTokenHttpClient.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\src\\DefaultHttpClient.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\src\\DefaultHttpClient.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\src\\DefaultReconnectPolicy.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\src\\DefaultReconnectPolicy.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\src\\Errors.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\src\\Errors.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\src\\FetchHttpClient.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\src\\FetchHttpClient.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\src\\HandshakeProtocol.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\src\\HandshakeProtocol.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\src\\HeaderNames.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\src\\HeaderNames.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\src\\HttpClient.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\src\\HttpClient.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\src\\HttpConnection.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\src\\HttpConnection.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\src\\HubConnection.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\src\\HubConnection.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\src\\HubConnectionBuilder.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\src\\HubConnectionBuilder.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\src\\IConnection.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\src\\IConnection.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\src\\IHttpConnectionOptions.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\src\\IHttpConnectionOptions.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\src\\IHubProtocol.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\src\\IHubProtocol.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\src\\ILogger.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\src\\ILogger.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\src\\IRetryPolicy.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\src\\IRetryPolicy.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\src\\ITransport.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\src\\ITransport.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\src\\JsonHubProtocol.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\src\\JsonHubProtocol.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\src\\Loggers.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\src\\Loggers.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\src\\LongPollingTransport.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\src\\LongPollingTransport.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\src\\Polyfills.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\src\\Polyfills.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\src\\ServerSentEventsTransport.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\src\\ServerSentEventsTransport.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\src\\Stream.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\src\\Stream.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\src\\Subject.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\src\\Subject.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\src\\TextMessageFormat.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\src\\TextMessageFormat.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\src\\Utils.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\src\\Utils.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\src\\WebSocketTransport.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\src\\WebSocketTransport.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\src\\XhrHttpClient.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\src\\XhrHttpClient.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\src\\browser-index.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\src\\browser-index.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\src\\index.ts",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\src\\index.ts"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\microsoft\\signalr\\src\\third-party-notices.txt",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\src\\third-party-notices.txt"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalr.js\\jquery.signalR.js",
+      "PackagePath": "staticwebassets\\signalr.js\\jquery.signalR.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalr.js\\jquery.signalR.min.js",
+      "PackagePath": "staticwebassets\\signalr.js\\jquery.signalR.min.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\.jshintrc",
+      "PackagePath": "staticwebassets\\signalrjs\\.jshintrc"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\.npmignore",
+      "PackagePath": "staticwebassets\\signalrjs\\.npmignore"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\.travis.yml",
+      "PackagePath": "staticwebassets\\signalrjs\\.travis.yml"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\LICENSE",
+      "PackagePath": "staticwebassets\\signalrjs"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\README.md",
+      "PackagePath": "staticwebassets\\signalrjs\\README.md"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\docs\\examples\\chat\\bower.json",
+      "PackagePath": "staticwebassets\\signalrjs\\docs\\examples\\chat\\bower.json"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\docs\\examples\\chat\\index.html",
+      "PackagePath": "staticwebassets\\signalrjs\\docs\\examples\\chat\\index.html"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\docs\\examples\\chat\\signalRJSServer.js",
+      "PackagePath": "staticwebassets\\signalrjs\\docs\\examples\\chat\\signalRJSServer.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\docs\\examples\\passportChat\\bower.json",
+      "PackagePath": "staticwebassets\\signalrjs\\docs\\examples\\passportChat\\bower.json"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\docs\\examples\\passportChat\\chat.html",
+      "PackagePath": "staticwebassets\\signalrjs\\docs\\examples\\passportChat\\chat.html"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\docs\\examples\\passportChat\\index.html",
+      "PackagePath": "staticwebassets\\signalrjs\\docs\\examples\\passportChat\\index.html"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\docs\\examples\\passportChat\\package.json",
+      "PackagePath": "staticwebassets\\signalrjs\\docs\\examples\\passportChat\\package.json"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\docs\\examples\\passportChat\\signalRJSServer.js",
+      "PackagePath": "staticwebassets\\signalrjs\\docs\\examples\\passportChat\\signalRJSServer.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\docs\\examples\\privateChat\\bower.json",
+      "PackagePath": "staticwebassets\\signalrjs\\docs\\examples\\privateChat\\bower.json"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\docs\\examples\\privateChat\\index.html",
+      "PackagePath": "staticwebassets\\signalrjs\\docs\\examples\\privateChat\\index.html"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\docs\\examples\\privateChat\\package.json",
+      "PackagePath": "staticwebassets\\signalrjs\\docs\\examples\\privateChat\\package.json"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\docs\\examples\\privateChat\\signalRJSServer.js",
+      "PackagePath": "staticwebassets\\signalrjs\\docs\\examples\\privateChat\\signalRJSServer.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\docs\\examples\\time\\bower.json",
+      "PackagePath": "staticwebassets\\signalrjs\\docs\\examples\\time\\bower.json"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\docs\\examples\\time\\index.html",
+      "PackagePath": "staticwebassets\\signalrjs\\docs\\examples\\time\\index.html"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\docs\\examples\\time\\signalRJSServer.js",
+      "PackagePath": "staticwebassets\\signalrjs\\docs\\examples\\time\\signalRJSServer.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\gulpfile.js",
+      "PackagePath": "staticwebassets\\signalrjs\\gulpfile.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\index.js",
+      "PackagePath": "staticwebassets\\signalrjs\\index.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\lib\\common\\eventConstants.js",
+      "PackagePath": "staticwebassets\\signalrjs\\lib\\common\\eventConstants.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\lib\\common\\expandify.js",
+      "PackagePath": "staticwebassets\\signalrjs\\lib\\common\\expandify.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\lib\\common\\messageFactory.js",
+      "PackagePath": "staticwebassets\\signalrjs\\lib\\common\\messageFactory.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\lib\\common\\minify.js",
+      "PackagePath": "staticwebassets\\signalrjs\\lib\\common\\minify.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\lib\\common\\objectExtensions.js",
+      "PackagePath": "staticwebassets\\signalrjs\\lib\\common\\objectExtensions.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\lib\\common\\signalrRequestParser.js",
+      "PackagePath": "staticwebassets\\signalrjs\\lib\\common\\signalrRequestParser.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\lib\\connections\\connectionManager.js",
+      "PackagePath": "staticwebassets\\signalrjs\\lib\\connections\\connectionManager.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\lib\\connections\\userTokens.js",
+      "PackagePath": "staticwebassets\\signalrjs\\lib\\connections\\userTokens.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\lib\\hubs\\hubFactory.js",
+      "PackagePath": "staticwebassets\\signalrjs\\lib\\hubs\\hubFactory.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\lib\\hubs\\hubScriptFactory.js",
+      "PackagePath": "staticwebassets\\signalrjs\\lib\\hubs\\hubScriptFactory.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\lib\\hubs\\hubs.js",
+      "PackagePath": "staticwebassets\\signalrjs\\lib\\hubs\\hubs.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\lib\\hubs\\templateHub.js",
+      "PackagePath": "staticwebassets\\signalrjs\\lib\\hubs\\templateHub.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\lib\\signalRJS.js",
+      "PackagePath": "staticwebassets\\signalrjs\\lib\\signalRJS.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\lib\\transports\\longPollingTransport.js",
+      "PackagePath": "staticwebassets\\signalrjs\\lib\\transports\\longPollingTransport.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\lib\\transports\\sseTransport.js",
+      "PackagePath": "staticwebassets\\signalrjs\\lib\\transports\\sseTransport.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\lib\\transports\\transportTypes.js",
+      "PackagePath": "staticwebassets\\signalrjs\\lib\\transports\\transportTypes.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\package.json",
+      "PackagePath": "staticwebassets\\signalrjs\\package.json"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\tests\\hubs\\expectedHubOutput.js",
+      "PackagePath": "staticwebassets\\signalrjs\\tests\\hubs\\expectedHubOutput.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\tests\\hubs\\given we are creating a hub script.js",
+      "PackagePath": "staticwebassets\\signalrjs\\tests\\hubs\\given we are creating a hub script.js"
+    },
+    {
+      "Id": "D:\\sem8\\PRN221\\PRN221_ManageStore\\ManageBookStore\\wwwroot\\signalrjs\\tests\\signalrjs.js",
+      "PackagePath": "staticwebassets\\signalrjs\\tests\\signalrjs.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ManageBookStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ManageBookStore.props",
+      "PackagePath": "build\\ManageBookStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ManageBookStore.props",
+      "PackagePath": "buildMultiTargeting\\ManageBookStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ManageBookStore.props",
+      "PackagePath": "buildTransitive\\ManageBookStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

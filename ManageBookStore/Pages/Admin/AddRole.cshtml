@@ -1,0 +1,39 @@
+﻿@page
+@model ManageBookStore.Pages.Admin.AddRoleModel
+@{
+}
+<div>
+    @Html.Partial("AdminLayout")
+
+    <div>
+        @if (ViewData["error"] != "")
+        {
+            <h3 style="color:red">@ViewData["error"]</h3>
+        }
+        <form method="post">
+            <table>
+                <tr>
+                    <td>Name: </td>
+                    <td><input type="text" name="name" /></td>
+                </tr>
+                <tr>
+                    <td>Description</td>
+                    <td><input type="text" name="description" /></td>
+                </tr>
+                <tr>
+                    <td>Status</td>
+                    <td>
+                        <select name="status">
+                            <option value="true">Enable</option>
+                            <option value="false">Disable</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td><button type="submit">Add</button></td>
+                </tr>
+            </table>
+        </form>
+    </div>
+</div>
